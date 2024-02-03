@@ -20,7 +20,7 @@ $$
 $$
 
 $$
-\vec{u}\times\vec{v} = \begin{vmatrix}\hat{i}&\hat{j}&\hat{k}\\m_1&m_2&m_3\\n_1&n_2&n_3\end{vmatrix} = \begin{vmatrix}m_2&m_3\\n_2&n_3\end{vmatrix}\hat{i} - \begin{vmatrix}m_1&m_3\\n_1&n_3\end{vmatrix}\hat{j} + \begin{vmatrix}m_1&m_2\\n_1&n_2\end{vmatrix}\hat{k}
+\vec{u}\times\vec{v} = \begin{vmatrix}\hat{i}&\hat{j}&\hat{k} \\ m_1&m_2&m_3\\n_1&n_2&n_3\end{vmatrix} = \begin{vmatrix}m_2&m_3 \\ n_2&n_3\end{vmatrix}\hat{i} - \begin{vmatrix}m_1&m_3 \\ n_1&n_3\end{vmatrix}\hat{j} + \begin{vmatrix}m_1&m_2\\n_1&n_2\end{vmatrix}\hat{k}
 $$
 
 만약 두 벡터가 모두 xy평면 상의 벡터라면 그 결과는 다음과 같다.
